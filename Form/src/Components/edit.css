@@ -1,0 +1,36 @@
+.container1{
+    
+ 
+    margin-top: 87px;
+    position: relative;
+    display: flex;
+    width: 534px;
+    left: 640px;
+    top: 83px;
+    border-radius: 10px;
+  
+ 
+   
+ 
+}
+.box1{   
+        position: absolute;
+        width: 400px;
+        margin-top: 97px;
+        margin-left: 97px;
+        left:1px;
+        border-radius: 20px;
+        
+      
+      }
+
+.t1{
+display: flex;
+position:relative;
+left:300px;
+
+}
+.form-group{
+    display: flex;
+    position: absolute;
+}
